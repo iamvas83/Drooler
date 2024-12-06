@@ -1,2 +1,2 @@
-IntermediateDSA/readme.md
-IntermediateDSA\readme.md
+IntermediatePrefix\readme.md
+IntermediateCarryForward\readme.md
