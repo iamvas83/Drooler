@@ -17,5 +17,6 @@ func MaxSumSubArray(A []int, sum int, size int) {
 			}
 		}
 	}
+
 	fmt.Printf("max sum sub array %v\n", maxSum)
 }

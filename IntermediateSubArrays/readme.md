@@ -9,7 +9,7 @@ possible end points = i,i+1,i+2,...n-1: n-i
 
 <B>Contribution of A[i] = A[i]\*(i+1)*(n-i)</B>
 
-> Maximum Subarray Easy
+> MaxSumSubArrayEasy
 
 Problem Description
 
