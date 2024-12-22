@@ -3,22 +3,22 @@
 Refer Go https://go.dev/doc/code#Organization
 
 [Intermediate1\BitManipulation\Readme.md
-](https://)
+](https://github.com/iamvas83/Drooler/blob/main/Intermediate1/BitManipulation/Readme.md)
 
 [Intermediate1\Intermediate2Dmatrices\readme.md
-](https://github.com/iamvas83/Drooler/blob/main/Intermediate2Dmatrices/readme.md)
+](https://github.com/iamvas83/Drooler/blob/main/Intermediate1/Intermediate2Dmatrices/readme.md)
 
 [Intermediate1\IntermediateCarryForward\readme.md
-](https://github.com/iamvas83/Drooler/blob/main/IntermediateCarryForward/readme.md)
+](https://github.com/iamvas83/Drooler/blob/main/Intermediate1/IntermediateCarryForward/readme.md)
 
-[Intermediate1\IntermediateDSAInterviewProblemsArrays\readme.md](https://)
+[Intermediate1\IntermediateDSAInterviewProblemsArrays\readme.md](https://github.com/iamvas83/Drooler/blob/main/Intermediate1/IntermediateDSAInterviewProblemsArrays/readme.md)
 
-[Intermediate1\IntermediatePrefix\readme.md](https://github.com/iamvas83/Drooler/blob/main/IntermediatePrefix/readme.md)
+[Intermediate1\IntermediatePrefix\readme.md](https://github.com/iamvas83/Drooler/blob/main/Intermediate1/IntermediatePrefix/readme.md)
 
-[Intermediate1\IntermediateSlidingWindow\readme.md](https://)
+[Intermediate1\IntermediateSlidingWindow\readme.md](https://github.com/iamvas83/Drooler/blob/main/Intermediate1/IntermediateSlidingWindow/readme.md)
 
 [Intermediate1\IntermediateSubArrays\readme.md
-](https://github.com/iamvas83/Drooler/blob/main/IntermediateSubArrays/readme.md)
+](https://github.com/iamvas83/Drooler/blob/main/Intermediate1/IntermediateSubArrays/readme.md)
 
 
 
