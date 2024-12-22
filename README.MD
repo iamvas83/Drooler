@@ -2,16 +2,26 @@
 
 Refer Go https://go.dev/doc/code#Organization
 
-[IntermediatePrefix\readme.md](https://github.com/iamvas83/Drooler/blob/main/IntermediatePrefix/readme.md)
+[Intermediate1\BitManipulation\Readme.md
+](https://)
 
-[IntermediateCarryForward\readme.md
+[Intermediate1\Intermediate2Dmatrices\readme.md
+](https://github.com/iamvas83/Drooler/blob/main/Intermediate2Dmatrices/readme.md)
+
+[Intermediate1\IntermediateCarryForward\readme.md
 ](https://github.com/iamvas83/Drooler/blob/main/IntermediateCarryForward/readme.md)
 
-[IntermediateSubArrays\readme.md
+[Intermediate1\IntermediateDSAInterviewProblemsArrays\readme.md](https://)
+
+[Intermediate1\IntermediatePrefix\readme.md](https://github.com/iamvas83/Drooler/blob/main/IntermediatePrefix/readme.md)
+
+[Intermediate1\IntermediateSlidingWindow\readme.md](https://)
+
+[Intermediate1\IntermediateSubArrays\readme.md
 ](https://github.com/iamvas83/Drooler/blob/main/IntermediateSubArrays/readme.md)
 
 
-[Intermediate2Dmatrices\readme.md](https://github.com/iamvas83/Drooler/blob/main/Intermediate2Dmatrices/readme.md)
+
 
 
 
@@ -19,6 +29,6 @@ Refer Go https://go.dev/doc/code#Organization
 
 ____________________________
 
-Markdown
+Markdown reference
 
 https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md

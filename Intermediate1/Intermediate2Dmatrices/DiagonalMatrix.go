@@ -12,12 +12,11 @@ func DiagonalMatrix(A [][]int) int {
 	return sum
 }
 
-//Also
-
+// Also
 func SumOfDiagonal(A [][]int) int {
 	sum := 0
 	for i, h := range A {
-		for j, _ := range h {
+		for j := range h {
 
 			if i == j {
 				sum += A[i][j]
