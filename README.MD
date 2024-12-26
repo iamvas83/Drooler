@@ -22,8 +22,10 @@ Refer Go https://go.dev/doc/code#Organization
 
 
 
+<B>Intermediate Problem Solving 2</B>
 
 
+[Intermediate2\BitManipulation2\readme.md](https://github.com/iamvas83/Drooler/blob/main/Intermediate2/BitManipulation2/readme.md)
 
 
 
