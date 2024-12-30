@@ -28,7 +28,10 @@ Refer Go https://go.dev/doc/code#Organization
 [Intermediate2\BitManipulation2\readme.md](https://github.com/iamvas83/Drooler/blob/main/Intermediate2/BitManipulation2/readme.md)
 
 
+Modular Arithmetic
+https://leetcode.com/discuss/study-guide/3735417/topics-which-you-cant-skip-interview-preparation-part-1
 
+https://leetcode.com/discuss/study-guide/3767785/topics-which-you-cant-skip-interview-preparation-part-2
 ____________________________
 
 Markdown reference
