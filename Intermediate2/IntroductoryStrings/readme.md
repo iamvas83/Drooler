@@ -513,3 +513,51 @@ func solve(A string , B string )  (int) {
 
 ```
 
+
+
+## Code explanation for Longest Prefix Sum
+
+Problem Description
+Given an array of strings, find the longest string P such that:
+
+P is a prefix of every string in the array.
+A prefix is the initial portion of a string (e.g., "fl" is a prefix of "flower").
+For example:
+
+Input: ["flower", "flow", "flight"]
+Output: "fl" (common prefix among all strings)
+
+Key Idea
+The longest common prefix is obtained by repeatedly reducing a candidate prefix until it matches the start of every string in the array.
+
+Start with the first string as the prefix.
+
+Initially assume the entire first string (strs[0]) is the prefix.
+This is the "candidate prefix."
+Iteratively compare with other strings.
+
+For each subsequent string in the array:
+Check if the current prefix is actually a prefix of the string.
+If not, shrink the prefix from the end by removing one character at a time until it matches the start of the string.
+Terminate early if the prefix becomes empty.
+
+If the prefix is reduced to an empty string, return "", as no common prefix exists.
+
+Using strings.Index
+In Go, strings.Index(string, substring) checks whether a substring exists in the string:
+
+If strings.Index(str, prefix) == 0: The substring prefix is at the start of str.
+If strings.Index(str, prefix) != 0: The substring is not at the start.
+This function simplifies the process of checking whether one string starts with another.
+
+Complexity Analysis
+Time Complexity: 
+𝑂(𝑆):
+
+>S is the total number of characters in all strings.
+
+>In the worst case, every character of every string is compared.
+
+Space Complexity: 
+𝑂(1):
+Only a few variables are used; no additional space is required.
