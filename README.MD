@@ -1,7 +1,9 @@
-<B> Steps to add local imports </B>
+## Steps to add local imports
 
 Refer Go https://go.dev/doc/code#Organization
 
+## Code Blocks
+## Intermediate 1
 [Intermediate1\BitManipulation\Readme.md
 ](https://github.com/iamvas83/Drooler/blob/main/Intermediate1/BitManipulation/Readme.md)
 
@@ -22,11 +24,15 @@ Refer Go https://go.dev/doc/code#Organization
 
 
 
-<B>Intermediate Problem Solving 2</B>
+## Intermediate 2
 
 
 [Intermediate2\BitManipulation2\readme.md](https://github.com/iamvas83/Drooler/blob/main/Intermediate2/BitManipulation2/readme.md)
 
+
+## References
+Go Dev Blog Posts
+[Maps](https://go.dev/blog/maps)
 
 Modular Arithmetic
 https://leetcode.com/discuss/study-guide/3735417/topics-which-you-cant-skip-interview-preparation-part-1
@@ -34,6 +40,12 @@ https://leetcode.com/discuss/study-guide/3735417/topics-which-you-cant-skip-inte
 https://leetcode.com/discuss/study-guide/3767785/topics-which-you-cant-skip-interview-preparation-part-2
 ____________________________
 
-Markdown reference
+## Markdown reference
 
 https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md
+
+__________________________________
+
+##  Git ignore reference
+
+https://github.com/groda/the_ultimate_gitignore_guide
