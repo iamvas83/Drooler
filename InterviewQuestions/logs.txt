@@ -1,0 +1,6 @@
+request id,timestamp,user id,method,path,response time,db time
+0,2029-03-23T03:18:58.490Z,5ee83a2054558f806feaf83e,PATCH,/profiles/:id,21ms,6ms
+1,2029-03-23T03:18:57.970Z,5e797c2154558f806feb3fb8,PATCH,/profiles/:id,18ms,7ms
+2,2029-03-23T03:18:58.177Z,5e13f8a154558f806feb6a27,POST,/profiles,25ms,7ms
+3,2029-03-23T03:18:58.048Z,5eb0db2054558f806feb2415,POST,/profiles,24ms,7ms
+4,2029-03-23T03:18:58.249Z,5ff3daa154558f806feb80a6,PATCH,/tours/:id,39ms,11ms
