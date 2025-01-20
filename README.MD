@@ -3,6 +3,7 @@
 Refer Go https://go.dev/doc/code#Organization
 
 ## Code Blocks
+
 ## Intermediate 1
 [Intermediate1\BitManipulation\Readme.md
 ](https://github.com/iamvas83/Drooler/blob/main/Intermediate1/BitManipulation/Readme.md)

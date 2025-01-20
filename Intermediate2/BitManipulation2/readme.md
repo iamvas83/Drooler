@@ -396,7 +396,7 @@ Output Format
 Return an integer denoting the number of days Boomer was well behaved.
 
 
-
+```
 Example Input
 
 Input 1:
@@ -415,7 +415,7 @@ Output 1:
 Output 2:
 
  1
-
+```
 
 Example Explanation
 
@@ -455,7 +455,7 @@ Output Format
 Return the Ath magic number.
 
 
-
+```
 Example Input
 
 Example Input 1:
@@ -475,7 +475,7 @@ Example Output 2:
 
  650
 
-
+```
 Example Explanation
 
 Explanation 1:
@@ -511,7 +511,7 @@ Output Format
 Return a single unsigned integer denoting the decimal value of reversed bits.
 
 
-
+```
 Example Input
 
 Input 1:
@@ -542,3 +542,4 @@ Explanation 2:
 
         00000000000000000000000000000011    
 =>      11000000000000000000000000000000
+```
