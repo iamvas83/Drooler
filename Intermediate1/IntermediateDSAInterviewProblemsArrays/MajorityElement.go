@@ -11,7 +11,7 @@ func MajorityElement(A []int) int {
 		}
 		if count == 0 {
 			me = A[i]
-
+			count = 1
 		}
 	}
 
