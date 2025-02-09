@@ -1,4 +1,4 @@
-package recirsion1
+package recirsion2
 
 func KthSymbol(A int, K int64) int {
 	B := int(K)
