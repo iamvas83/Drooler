@@ -444,3 +444,92 @@ func merge(A []int ,l,y,r int )  (int) {
 
 
 ```
+
+## Count Sort
+
+```
+Problem Description
+
+Given an array A. Sort this array using Count Sort Algorithm and return the sorted array.
+
+
+Problem Constraints
+
+1 <= |A| <= 105
+1 <= A[i] <= 105
+
+
+Input Format
+
+The first argument is an integer array A.
+
+
+Output Format
+
+Return an integer array that is the sorted array A.
+
+
+Example Input
+
+Input 1:
+A = [1, 3, 1]
+Input 2:
+A = [4, 2, 1, 3]
+
+
+Example Output
+
+Output 1:
+[1, 1, 3]
+Output 2:
+[1, 2, 3, 4]
+
+
+Example Explanation
+
+For Input 1:
+The array in sorted order is [1, 1, 3].
+For Input 2:
+The array in sorted order is [1, 2, 3, 4].
+
+```
+
+``` go
+/**
+ * @input A : Integer array
+ * 
+ * @Output Integer array.
+ */
+//import "fmt"
+import "math"
+func solve(A []int )  ([]int) {
+    maxi:=math.MinInt
+    for i:=0;i<len(A);i++{
+        if A[i]>maxi{
+            maxi=A[i]
+        }
+    }
+    m:=make(map[int]int)
+    temp:=make([]int,len(A))
+    for i:=0;i<len(A);i++{
+        if _,ok:=m[A[i]];ok{
+            m[A[i]]=m[A[i]]+1
+        }else{
+            m[A[i]]=1
+        }
+    }
+   // fmt.Print(m)
+    cnt:=0
+    for i:=0;i<=maxi;i++{
+        if _,ok:=m[i];ok{
+
+            for j:=0;j<m[i];j++{
+                temp[cnt]=i
+                cnt++
+            }
+        }
+    }
+    return temp
+}
+
+```
