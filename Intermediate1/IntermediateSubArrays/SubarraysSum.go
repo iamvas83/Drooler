@@ -8,7 +8,7 @@ func SubarraysSum2(A []int) {
 		for j := i; j < len(A); j++ {
 
 			for k := i; k <= j; k++ {
-				sum += A[i]
+				sum += A[k]
 			}
 		}
 	}

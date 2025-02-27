@@ -30,6 +30,7 @@ Example Input
 Input 1:
 
  A = [1, 2, 3, 4, -10] 
+
 Input 2:
 
  A = [-2, 1, -3, 4, -1, 2, 1, -5, 4] 
@@ -40,6 +41,7 @@ Example Output
 Output 1:
 
  10 
+ 
 Output 2:
 
  6 
